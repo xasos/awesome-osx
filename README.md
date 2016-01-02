@@ -276,6 +276,7 @@
 - [SoundCleod](http://soundcleod.com/) - A browser for SoundCloud. [![Open-Source Software][OSS Icon]](https://github.com/salomvary/soundcleod)
 - [Transmit](https://panic.com/transmit/) - A FTP client.
 - [Vienna](http://www.vienna-rss.org/) - RSS/Atom newsreader. [![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss)
+- [Overcast for Desktop](https://github.com/xasos/overcast-desktop) - Overcast Podcast Player. [![Open-Source Software][OSS Icon]](https://github.com/xasos/overcast-desktop)
 
 
 ## Command Line Utilities
